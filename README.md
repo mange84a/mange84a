@@ -1,4 +1,6 @@
 ### Hi there 👋
+Magnus Andersson, a freelancing web developer!
+
 
 <!--
 **mange84a/mange84a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
