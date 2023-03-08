@@ -1,6 +1,18 @@
 ### Hi there 👋
-Magnus Andersson, a freelancing web developer!
+Magnus Andersson, a freelancing web developer! 
 
+Developing websites as a profession and playing around in varius open source projects!
+
+In my stack: 
+- PHP
+- JS
+- CSS
+- HTML
+- Laravel
+- Woocommerce
+- Linux
+- C
+- Lua
 
 <!--
 **mange84a/mange84a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
